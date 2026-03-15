@@ -25,15 +25,11 @@
 ## ☁️ Cloud & Infrastructure
 
 - 📡 [**avd-health-monitor**](https://github.com/seb07-cloud/avd-health-monitor) - Windows system tray app that tracks Azure Virtual Desktop endpoint connectivity in real time. Latency testing, live graphs, toast alerts.
-- 💰 [**tf-multi-provider-budget**](https://github.com/seb07-cloud/tf-multi-provider-budget) - Terraform module to create budget alerts in AWS / Azure.
-- ⬆️ [**azure-upgrade-basic-ip-sku**](https://github.com/seb07-cloud/azure-upgrade-basic-ip-sku) - Upgrade Azure Basic public IPs to Standard SKU.
-- 💾 [**azure-backup-per-tag**](https://github.com/seb07-cloud/azure-backup-per-tag) - Enable Azure Backup on VMs by tag.
 - 📊 [**msgraph-terraform**](https://github.com/seb07-cloud/msgraph-terraform) - Blog companion: managing Microsoft Graph resources with Terraform.
 
 ## 🛠️ Developer Tools
 
 - 🐳 [**dktop**](https://github.com/seb07-cloud/dktop) - Terminal Docker container manager inspired by btop. Real-time CPU/memory graphs, log viewing, container lifecycle management.
-- 🧩 [**skill-manager**](https://github.com/seb07-cloud/skill-manager) - Discover and manage Claude Code skills across your projects.
 - 🍺 [**homebrew-tap**](https://github.com/seb07-cloud/homebrew-tap) - Homebrew formulae for my CLI tools.
 
 ## ⚙️ Dev Environment
