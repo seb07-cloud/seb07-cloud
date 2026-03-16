@@ -8,6 +8,7 @@
 [![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)](https://docs.microsoft.com/en-us/powershell/)
 [![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com)
 [![Entra ID](https://img.shields.io/badge/Entra_ID-0078D4?style=flat&logo=microsoft&logoColor=white)](https://entra.microsoft.com)
+[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)](https://kotlinlang.org)
 [![CLI](https://img.shields.io/badge/CLI-black?style=flat&logo=gnometerminal&logoColor=white)]()
 
 > Building CLI tools and platforms for Azure identity, security, and infrastructure management.
@@ -30,6 +31,7 @@
 ## 🛠️ Developer Tools
 
 - 🐳 [**dktop**](https://github.com/seb07-cloud/dktop) - Terminal Docker container manager inspired by btop. Real-time CPU/memory graphs, log viewing, container lifecycle management.
+- 📧 [**relay-manager**](https://github.com/seb07-cloud/relay-manager) - Android app for managing Firefox Relay Premium. Create, toggle, edit, and delete email masks, phone masks, and custom domains.
 - 🍺 [**homebrew-tap**](https://github.com/seb07-cloud/homebrew-tap) - Homebrew formulae for my CLI tools.
 
 ## ⚙️ Dev Environment
