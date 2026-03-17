@@ -26,6 +26,7 @@
 ## ☁️ Cloud & Infrastructure
 
 - 📡 [**avd-health-monitor**](https://github.com/seb07-cloud/avd-health-monitor) - Windows system tray app that tracks Azure Virtual Desktop endpoint connectivity in real time. Latency testing, live graphs, toast alerts.
+- 📊 [**grafana-avd-exporter**](https://github.com/seb07-cloud/grafana-avd-exporter) - Grafana exporter for Azure Virtual Desktop metrics.
 - 📊 [**msgraph-terraform**](https://github.com/seb07-cloud/msgraph-terraform) - Blog companion: managing Microsoft Graph resources with Terraform.
 
 ## 🛠️ Developer Tools
