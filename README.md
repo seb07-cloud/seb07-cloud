@@ -40,3 +40,11 @@
 - 💻 [**terminal-ftw**](https://github.com/seb07-cloud/terminal-ftw) - Windows Terminal configuration and customization.
 - 📦 [**docker-dev-container**](https://github.com/seb07-cloud/docker-dev-container) - Docker-based development container setup.
 - 🐧 [**wsl-ubuntu**](https://github.com/seb07-cloud/wsl-ubuntu) - WSL Ubuntu environment configuration.
+
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=seb07-cloud&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seb07-cloud&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
